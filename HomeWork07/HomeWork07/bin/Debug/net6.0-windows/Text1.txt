@@ -1,0 +1,6 @@
+Hello, world!
+My name is Alla.
+I'm studying C# now.
+This is my Homework project.
+I need to create a .txt file and my program must read it and create two new files, which contain odd and even lines.
+Thank you!

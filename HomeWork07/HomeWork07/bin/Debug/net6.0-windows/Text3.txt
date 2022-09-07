@@ -1,0 +1,3 @@
+Hello, world!
+I'm studying C# now.
+I need to create a .txt file and my program must read it and create two new files, which contain odd and even lines.
