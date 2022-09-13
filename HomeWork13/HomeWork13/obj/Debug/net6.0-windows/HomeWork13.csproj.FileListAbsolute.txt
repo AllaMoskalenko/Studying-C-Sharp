@@ -1,0 +1,17 @@
+H:\Studying C Sharp\HomeWork13\HomeWork13\bin\Debug\net6.0-windows\HomeWork13.exe
+H:\Studying C Sharp\HomeWork13\HomeWork13\bin\Debug\net6.0-windows\HomeWork13.deps.json
+H:\Studying C Sharp\HomeWork13\HomeWork13\bin\Debug\net6.0-windows\HomeWork13.runtimeconfig.json
+H:\Studying C Sharp\HomeWork13\HomeWork13\bin\Debug\net6.0-windows\HomeWork13.dll
+H:\Studying C Sharp\HomeWork13\HomeWork13\bin\Debug\net6.0-windows\HomeWork13.pdb
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.csproj.AssemblyReference.cache
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.Form1.resources
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.csproj.GenerateResource.cache
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.GeneratedMSBuildEditorConfig.editorconfig
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.AssemblyInfoInputs.cache
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.AssemblyInfo.cs
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.csproj.CoreCompileInputs.cache
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.dll
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\refint\HomeWork13.dll
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.pdb
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\HomeWork13.genruntimeconfig.cache
+H:\Studying C Sharp\HomeWork13\HomeWork13\obj\Debug\net6.0-windows\ref\HomeWork13.dll
