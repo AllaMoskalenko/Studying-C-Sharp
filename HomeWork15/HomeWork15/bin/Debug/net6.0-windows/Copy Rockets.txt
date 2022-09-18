@@ -1,0 +1,10 @@
+Orwill SB 1 PE MR
+Orion SB 2 PE PE SR SR
+SherKhan BB 4 RE DE RE DE SR MR SR MR
+Kovcheg BB 1 DE BR
+DeathStar MB 3 PE RE DE MR SR BR
+Arrow MB 2 RE RE SR MR
+Falcon SB 1 DE SR
+Eagle MB 3 RE RE PE SR MR SR
+Soaring MB 2 DE PE BR SR
+Sudden BB 1 PE BR
