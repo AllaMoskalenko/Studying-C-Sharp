@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeWork20/1.0.0": {
+        "dependencies": {
+          "SortingAlgorythms": "1.0.0"
+        },
+        "runtime": {
+          "HomeWork20.dll": {}
+        }
+      },
+      "SortingAlgorythms/1.0.0": {
+        "runtime": {
+          "SortingAlgorythms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortingAlgorythms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.exe
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.deps.json
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.runtimeconfig.json
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.dll
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.pdb
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.AssemblyReference.cache
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.Form1.resources
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.GenerateResource.cache
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.GeneratedMSBuildEditorConfig.editorconfig
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.AssemblyInfoInputs.cache
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.AssemblyInfo.cs
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.CoreCompileInputs.cache
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.dll
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\refint\HomeWork20.dll
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.pdb
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.genruntimeconfig.cache
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\ref\HomeWork20.dll
+H:\Studying C Sharp\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.CopyComplete
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\SortingAlgorythms.dll
+H:\Studying C Sharp\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\SortingAlgorythms.pdb
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.exe
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.deps.json
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.runtimeconfig.json
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.dll
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\HomeWork20.pdb
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\SortingAlgorythms.dll
+C:\Studying\HomeWork20\HomeWork20\bin\Debug\net6.0-windows\SortingAlgorythms.pdb
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.AssemblyReference.cache
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.Form1.resources
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.GenerateResource.cache
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.AssemblyInfoInputs.cache
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.AssemblyInfo.cs
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.CoreCompileInputs.cache
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.csproj.CopyComplete
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.dll
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\refint\HomeWork20.dll
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.pdb
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\HomeWork20.genruntimeconfig.cache
+C:\Studying\HomeWork20\HomeWork20\obj\Debug\net6.0-windows\ref\HomeWork20.dll
