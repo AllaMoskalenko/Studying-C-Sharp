@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfA9HVnlwZDpkTH2BX3aKorZyDTUVBzlg13Nvh4i+qV3Rf+g19ma9vn3ceaRSMsbnDmw44j6t7VNqMGeR0Ootg==",
+  "success": true,
+  "projectFilePath": "H:\\Studying C Sharp\\HomeWork20\\Sorting_Library\\Sorting_Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moskalenko\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Moskalenko\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
