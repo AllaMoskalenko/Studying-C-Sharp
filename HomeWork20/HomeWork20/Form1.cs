@@ -74,5 +74,10 @@ namespace HomeWork20
         {
             array = Sort.InsertionSort(array, ref pictureBox1);
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            array = Sort.QuickSort(array, ref pictureBox1);
+        }
     }
 }

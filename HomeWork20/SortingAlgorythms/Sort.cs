@@ -7,6 +7,7 @@ using System.Windows;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Threading;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SortingAlgorythms
 {
@@ -172,5 +173,52 @@ namespace SortingAlgorythms
             FinDrawArr(arr, ref pb, Color.IndianRed);
             return arr;
         }
+
+        public static int[] QuickSort(int[] arr, ref PictureBox pb)
+        {
+             arr = Qsort(arr, 0, arr.Length-1, ref pb);
+             
+            int[] Qsort(int[] array, int left, int right, ref PictureBox pbox)
+             {
+                int i = left;
+                int j = right;
+                int standard = array[right];
+                while (i <= j)
+                {
+                    while (array[i] < standard)
+                    {
+                        i++;
+                    }
+                    while (array[j] > standard)
+                    {
+                        j--;
+                    }
+                    if (i <= j)
+                    {
+                        int temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                        i++;
+                        j--;
+                        DrawArr(array, i, j, ref pbox);
+                        Thread.Sleep(70);
+                    }
+                }
+                if (left < j)
+                {
+                    Qsort(array, left, j, ref pbox);
+                }
+                if (i < right)
+                {
+                    Qsort(array, i, right, ref pbox);
+                }
+
+                return array;
+             }
+
+            FinDrawArr(arr, ref pb, Color.Maroon);
+            return arr;
+        }
+
     }
 }
