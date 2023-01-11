@@ -70,14 +70,29 @@ namespace HomeWork20
             array = Sort.SelectionSort(array, ref pictureBox1);
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e)  // Insertion ort
         {
             array = Sort.InsertionSort(array, ref pictureBox1);
         }
 
-        private void button7_Click(object sender, EventArgs e)
+        private void button7_Click(object sender, EventArgs e)  //Quick sort
         {
             array = Sort.QuickSort(array, ref pictureBox1);
+        }
+
+        private void button12_Click(object sender, EventArgs e)  // Shell sort
+        {
+            array = Sort.ShellSort(array, ref pictureBox1);
+        }
+
+        private void button9_Click(object sender, EventArgs e)  //Radix sort
+        {
+            array = Sort.RadixSort(array, ref pictureBox1);
+        }
+
+        private void button6_Click(object sender, EventArgs e) //Merge sort
+        {
+            array = Sort.MergeSort(array, ref pictureBox1);
         }
     }
 }

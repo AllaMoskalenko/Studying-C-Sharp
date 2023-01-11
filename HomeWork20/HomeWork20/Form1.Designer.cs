@@ -338,6 +338,7 @@
             this.button9.TabIndex = 14;
             this.button9.Text = "Radix Sort";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -368,6 +369,7 @@
             this.button12.TabIndex = 11;
             this.button12.Text = "Shell Sort";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button7
             // 
@@ -389,6 +391,7 @@
             this.button6.TabIndex = 9;
             this.button6.Text = "Merge Sort";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
